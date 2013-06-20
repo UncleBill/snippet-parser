@@ -66,4 +66,3 @@ if __name__ == '__main__':
         print '=-'*20
         print 'snippet' , k
         print snippets[k]
-
